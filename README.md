@@ -1,4 +1,4 @@
-# ✈️ San Francisco Airport Passenger Dashboard
+# ✈️ San Francisco Airport Passenger Traffic Dashboard
 ### Project Overview
 This data projects aims to provide insights into the San Francisco Airport, specifically passenger traffic.
 
